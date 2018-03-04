@@ -13,6 +13,8 @@ application.*
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 deploy.sh
+.idea/*
+**/*.iml
 
 # Package Files #
 *.jar
